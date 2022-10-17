@@ -1,0 +1,1 @@
+export const baseUrl = 'https://cdn.cur.su/api/latest.json'
