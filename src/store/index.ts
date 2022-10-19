@@ -1,7 +1,7 @@
 import {configureStore} from '@reduxjs/toolkit'
-import ratesSlice from "./reducers/rates";
-import currSlice from "./reducers/curr";
-import priceSlice from "./reducers/price";
+import ratesSlice from "./slices/rates";
+import currSlice from "./slices/curr";
+import priceSlice from "./slices/price";
 
 
 export const store = configureStore({

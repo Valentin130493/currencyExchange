@@ -2,9 +2,9 @@ import React, {useEffect} from 'react';
 import {defaultCurrencies} from "../constants/currency";
 import {useDispatch, useSelector} from "react-redux";
 import {RootState} from "../store";
-import {fetchRates} from "../store/reducers/rates";
-import {setCurrFrom, setCurrTo} from "../store/reducers/curr";
-import {setPriceFrom, setPriceTo} from "../store/reducers/price";
+import {fetchRates} from "../store/slices/rates";
+import {setCurrFrom, setCurrTo} from "../store/slices/curr";
+import {setPriceFrom, setPriceTo} from "../store/slices/price";
 
 interface BlockProps {
     from: boolean
