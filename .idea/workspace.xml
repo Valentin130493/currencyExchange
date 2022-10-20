@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51872c54-68cf-4778-a90a-90319221736b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/block.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/block.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/reducers/curr.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/slices/curr.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/reducers/price.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/slices/price.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/reducers/rates.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/slices/rates.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/block.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/block/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/slices/rates.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/slices/rates.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -94,7 +92,8 @@
       <workItem from="1665669017310" duration="2529000" />
       <workItem from="1666004036713" duration="7389000" />
       <workItem from="1666094636656" duration="5256000" />
-      <workItem from="1666161534988" duration="16506000" />
+      <workItem from="1666161534988" duration="16674000" />
+      <workItem from="1666248364414" duration="6834000" />
     </task>
     <servers />
   </component>

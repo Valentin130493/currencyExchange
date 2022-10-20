@@ -38,7 +38,6 @@ export const ratesSlice = createSlice({
             });
         builder.addCase(
             fetchRates.fulfilled, (state, {payload}) => {
-                console.log(payload.rates)
                 state.rates = payload.rates;
                 state.loading = false;
             });
